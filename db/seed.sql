@@ -1,3 +1,6 @@
+-- the queries below should be copied into a server such as SQLtabs or pg web before trying to run the application
+
+
 DROP TABLE IF EXISTS users;
 
 CREATE TABLE users
